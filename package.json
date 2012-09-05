@@ -1,0 +1,19 @@
+{
+  "name": "upman",
+  "version": "0.0.1",
+  "description": "Up manager. Another supervisor-forever.js-y clone. Keeps anything you can put on the command line alive.",
+  "main": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/snbartell/node-upman.git"
+  },
+  "keywords": [
+    "supervisor",
+    "forever"
+  ],
+  "author": "Stephen Bartell",
+  "license": "BSD"
+}
