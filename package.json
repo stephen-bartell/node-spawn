@@ -1,6 +1,6 @@
 {
   "name": "upman",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Up manager. Another supervisor-forever.js-y clone. Keeps anything you can put on the command line alive.",
   "main": "./main.js",
   "scripts": {
