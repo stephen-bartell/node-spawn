@@ -1,7 +1,7 @@
 {
   "name": "upman",
-  "version": "0.0.2",
-  "description": "Up manager. Another supervisor-forever.js-y clone. Keeps anything you can put on the command line alive.",
+  "version": "0.0.3",
+  "description": "A thin wrapper around `child_process.spawn` which provides restarts.",
   "main": "./main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "supervisor",
-    "forever"
+    "forever",
+    "uptime"
   ],
   "author": "Stephen Bartell",
   "license": "BSD",

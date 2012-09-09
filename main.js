@@ -1,2 +1,2 @@
-var upman = require('./lib/upman.js')
-module.exports = upman
+var spawn = require('./lib/spawn.js')
+module.exports = spawn
