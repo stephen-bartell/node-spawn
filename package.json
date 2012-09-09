@@ -1,14 +1,11 @@
 {
-  "name": "upman",
+  "name": "node-spawn",
   "version": "0.0.3",
   "description": "A thin wrapper around `child_process.spawn` which provides restarts.",
   "main": "./main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/snbartell/node-upman.git"
+    "url": "git://github.com/snbartell/node-spawn.git"
   },
   "keywords": [
     "supervisor",
