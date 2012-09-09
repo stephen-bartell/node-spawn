@@ -18,6 +18,9 @@ Options - Object - (req)
 * cwd - Object - (opt) Absolute working directory of the child process
 * args - Array - (opt) List of string arguments
 * restarts - Integer - (opt) After death, how many times to restart
+* * -1: forever
+* * 0: no restarts
+* * x: restart x-times 
 * restartDelay - Decimal - (opt) Delay between restarts
 * onStdout - Function - (opt) callback for child.stdout
 * onSterr - Function - (opt) callback for child.stderr
