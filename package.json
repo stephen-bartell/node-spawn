@@ -1,6 +1,6 @@
 {
   "name": "node-spawn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A thin wrapper around `child_process.spawn` which provides restarts.",
   "main": "./main.js",
   "repository": {
